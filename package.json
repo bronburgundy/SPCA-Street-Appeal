@@ -1,0 +1,34 @@
+{
+  "name": "spca-street-appeal",
+  "version": "1.0.0",
+  "description": "Stage 1 - Users are a. Area Coordinator and b. SPCA Fundraising Manager. Stage 2 - Users are a. Area Coordinator, b. SPCA Fundraising Manager and c. Volunteer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server & webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bronburgundy/SPCA-Street-Appeal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bronburgundy/SPCA-Street-Appeal/issues"
+  },
+  "homepage": "https://github.com/bronburgundy/SPCA-Street-Appeal#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.12.0"
+  }
+}
