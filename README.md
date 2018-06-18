@@ -1,7 +1,7 @@
 # SPCA-Street-Appeal
 
-Stage 1 - Users are a. Area Coordinator and b. SPCA Fundraising Manager
-Stage 2 - Users are a. Area Coordinator, b. SPCA Fundraising Manager and c. Volunteer
+Stage 1 - Users are a. Area Coordinator and b. SPCA Fundraising Manager.
+Stage 2 - Users are a. Area Coordinator, b. SPCA Fundraising Manager and c. Volunteer.
 
 
 ## STAGE 1
