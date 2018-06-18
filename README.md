@@ -4,11 +4,11 @@ Stage 1 - Users are a. Area Coordinator and b. SPCA Fundraising Manager
 Stage 2 - Users are a. Area Coordinator, b. SPCA Fundraising Manager and c. Volunteer
 
 
-# STAGE 1
+## STAGE 1
 
 User stories:
 
-# User = AC
+### User = AC
 
 1. As an Area Coordinator, I need to be able to see a list of current volunteers for my designated area
 
@@ -24,7 +24,7 @@ User stories:
 
 7. As an AC I need to be able to print the completed roster onto an A4 sheet as well as view it legibly on my phone
 
-# User = SPCA
+### User = SPCA
 
 1. As the SPCA coordinator I need to be able to upload new volunteers and alert ACs when I have done this
 
